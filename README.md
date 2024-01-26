@@ -27,6 +27,8 @@ Add the Semi-Circular-Progressbar to your XML layout file.
 
 
 ### Example
+Copy and add the Custom Progress to your project
+
 Here's a quick example of how to use the Semi-Circular-Progressbar in your activity or fragment:
 
 <img src="https://github.com/hossamqandel/Semi-Circular-Progressbar/assets/63760755/7a4f12bf-997d-467b-950a-c45e26f39624" height="300">          
